@@ -2,6 +2,8 @@
 
 在电脑浏览器中辅助面包板布局和实际插接，支持多板排列、元件放置、连线及网络高亮，不做电路仿真。
 
+**[在线使用 / Open online](https://shenyang8103.github.io/Breadboard_Tool/)** · [GitHub 仓库](https://github.com/shenyang8103/Breadboard_Tool)
+
 ## 使用方法
 
 - **离线使用**：下载本仓库的 `index.html`，用电脑浏览器打开即可，无需安装，也不需要其他文件。
